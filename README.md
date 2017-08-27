@@ -1,4 +1,4 @@
-# GoldUniverseCowry
+# GoldUniverseCowry （金宇宝）
 
 这是一个基于安卓系统的金融系统，包括存款，取款，购买理财产品。
 
